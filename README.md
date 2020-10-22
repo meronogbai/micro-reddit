@@ -20,7 +20,8 @@ To get this project set up on your local machine, follow these simple steps:
 3. Copy and paste the following code into the Terminal: git clone https://github.com/meronokbay/micro-reddit.git
 4. Run micro-reddit.
 5. Run bundle install to get the necessary gems.
-6. Run rails db:migrate.
+6. Run rails db:create.
+7. Run rails db:migrate.
 
 
 👤 **Meron Ogbai**
