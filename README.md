@@ -1,24 +1,19 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+👤 **Meron Ogbai**
 
-Things you may want to cover:
+- Github: [@meronokbay](https://github.com/meronokbay)
+- Twitter: [@MeronDev](https://twitter.com/MeronDev)
+- Linkedin: [linkedin](https://linkedin.com/in/meron-ogbai-467414198/)
 
-* Ruby version
+## 🤝 Contributing
 
-* System dependencies
+Contributions, issues, and feature requests are welcome!
 
-* Configuration
+## Show your support
 
-* Database creation
+Give a ⭐️ if you like this project!
 
-* Database initialization
+## 📝 License
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This project is [MIT](lic.url) licensed.
